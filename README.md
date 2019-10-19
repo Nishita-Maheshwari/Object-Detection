@@ -11,8 +11,8 @@ The motive of object detection is to recognize and locate (localize) all known o
 
 
 # Future Prospects:
-  Tracking objects
-  Anomaly detection
+  Tracking objects,
+  Anomaly detection,
   Identity verification of object
   
 # Requirements:
@@ -22,8 +22,9 @@ The motive of object detection is to recognize and locate (localize) all known o
 
 
 # Software:
-   Python
-   Numpy
+   Python,
+   Numpy,
+   YOLO,
    OpenCV Python
    
    
