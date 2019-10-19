@@ -1,1 +1,39 @@
-# ijhfeuefh
+INTRODUCTION TO NUMPY 
+
+ Numpy is an open source numerical Python library. 
+ Numpy contains a multi-dimensional array and matrix data structures. 
+ It can be utilised to perform a number of mathematical operations on arrays such as trigonometric, statistical and algebraic routines. 
+ Numpy is an extension of Numeric and Numarray. 
+ The library contains a large number of mathematical, algebraic and transformation functions. 
+ It also contains random number generators. 
+ Numpy is a wrapper around a library implemented in C. 
+ Pandas objects heavily relies on Numpy objects. Pandas extends Numpy. 
+ 
+INTRODUCTION TO ARGPARSE
+  
+Parser for command line options, arguments and subcommands.
+This python module makes easy to write user-friendly command-line interfaces.
+The program defines what arguments it requires.
+Argparse will figure out how to parse those out of sys. argv. 
+
+INTRODUCTION TO OPEN CV WITH PYTHON 
+
+Open CV was started at Intel in 1999 by Gary Brodsky and the first release came out in 2000. 
+Open CV supports a lot of algorithms related to Computer Vision and Machine Learning.
+It is expanding day-by-day. 
+Currently Open CV supports a wide variety of programming languages like C++, Python, and Java etc.
+It is available on different platforms including Windows, Linux, OS X, Android, iOS etc.
+Also, interfaces based on CUDA and Open CV are also under active development for high-speed GPU operations. 
+Open CV-Python is the Python API of Open CV. 
+It combines the best qualities of Open CV C++ API and Python language. 
+  
+INTRODUCTION TO YOLO ALGORITHM 
+
+YOLO (You Only Look Once)  
+
+YOLO uses deep learning and convolutional neural networks (CNN) for object detection.
+It stands out from its “competitors” because, as the name indicates it only needs to “see” each image once.
+This allows YOLO to be one of the fastest detection algorithms (naturally sacrificing some accuracy). 
+Thanks to this swiftness YOLO can detect objects in real time (up to 30 FPS).
+
+
